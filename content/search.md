@@ -1,7 +1,5 @@
 ---
-title: "Search" # in any language you want
-layout: "search" # is necessary
-# url: "/archive"
-# description: "Description for Search"
+title: "搜尋"
+layout: "search"
 summary: "search"
 ---

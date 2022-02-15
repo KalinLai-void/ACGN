@@ -1,5 +1,5 @@
 baseURL: 'https://kalinlai-void.github.io/ACGN/'
-languageCode: zh-TW
+languageCode: zh-tw
 title: Kalin 風凜魂太の宅領域
 
 theme: PaperMod
@@ -19,17 +19,17 @@ minify:
 
 menu:
   main:
-    - name: Archive
-      url: archives
-      weight: 5
-    - name: Search
-      url: search/
-      weight: 10
-    - name: Tags
-      url: tags/
-      weight: 10
-    - name: Categories
+    - name: 分類
       url: categories/
+      weight: 1
+    - name: 標籤
+      url: tags/
+      weight: 2
+    - name: 歷史文章
+      url: archive/
+      weight: 3
+    - name: 搜尋
+      url: search/
       weight: 10
 
 outputs:
@@ -41,7 +41,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     #description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: 風凜魂太
+    author: Kalin 風凜魂太
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -55,51 +55,47 @@ params:
     ShowCodeCopyButtons: true
     ShowToc: true
     comments: true
-    images: ["papermod-cover.png"]
 
-    profileMode:
-        enabled: false
-        title: PaperMod
-        imageUrl: "#"
-        imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
-        buttons:
-            - name: Archives
-              url: archives
-            - name: Tags
-              url: tags
+    #profileMode:
+    #    enabled: false
+    #    title: PaperMod
+    #    imageUrl: "#"
+    #    imageTitle: my image
+    #    # imageWidth: 120
+    #    # imageHeight: 120
+    #    buttons:
+    #        - name: Archives
+    #          url: archives
+    #        - name: Tags
+    #          url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "Kalin 風凜魂太の宅領域"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-            - Do give a 🌟 on Github !
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            就是個喜歡分享個人看法（以ACGN為主）的宅宅，同時也是名往「遊戲產業」邁進的年輕人。<br>
+            - 這邊僅會分享ACGN相關看法，如心得之類的。<br>
+            - 若對技術文章有興趣，可以看看我的[主Blog](https://kalinlai-void.github.io/)。<br>
+            - 歡迎各位在文章下方跟我討論xD，有空我就會回！
     socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
+        - name: Facebook
+          url: "https://www.facebook.com/animeKarinKonta"
         - name: RsS
           url: "index.xml"
 
-    # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
+    label:
+        text: "Kalin 風凜魂太の宅領域"
+        icon: icon/favicon.ico
+        iconHeight: 35
 
     # analytics:
     #     google:
     #         SiteVerificationTag: "XYZabc"
 
-    # assets:
-    #     favicon: "<link / abs url>"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
-    #     apple_touch_icon: "<link / abs url>"
-    #     safari_pinned_tab: "<link / abs url>"
+    assets:
+        favicon: icon/favicon.ico
+        favicon16x16: icon/favicon-16x16.png
+        favicon32x32: icon/favicon-32x32.png
+        apple_touch_icon: icon/apple-touch-icon.png
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data
@@ -131,27 +127,3 @@ markup:
 #         lineNos: true
 #         # noClasses: false
 #         style: monokai
-
-privacy:
-    vimeo:
-        disabled: false
-        simple: true
-
-    twitter:
-        disabled: false
-        enableDNT: true
-        simple: true
-
-    instagram:
-        disabled: false
-        simple: true
-
-    youtube:
-        disabled: false
-        privacyEnhanced: true
-
-services:
-    instagram:
-        disableInlineCSS: true
-    twitter:
-        disableInlineCSS: true
