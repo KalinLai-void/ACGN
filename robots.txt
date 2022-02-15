@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://kalinlai-void.github.io/ACGN_Reviews/sitemap.xml
+Sitemap: https://kalinlai-void.github.io/ACGN/sitemap.xml
