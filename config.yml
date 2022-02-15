@@ -1,9 +1,11 @@
 baseURL: 'https://kalinlai-void.github.io/ACGN/'
 languageCode: zh-tw
+defaultContentLanguage: zh-tw
 title: Kalin 風凜魂太の宅領域
 
 theme: PaperMod
 disqusShortname: kalin-acgn
+likerID: kalinlai
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
