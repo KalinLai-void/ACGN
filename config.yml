@@ -56,6 +56,7 @@ params:
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowToc: true
+    ShowPostNavLinks: true
     comments: true
 
     #profileMode:
