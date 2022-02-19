@@ -94,6 +94,10 @@ params:
     #     google:
     #         SiteVerificationTag: "XYZabc"
 
+    adsense:
+      client: "ca-pub-9358449882725994"
+      inArticleSlot: "9718442885"
+
     assets:
         favicon: icon/favicon.ico
         favicon16x16: icon/favicon-16x16.png

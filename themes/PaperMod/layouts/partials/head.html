@@ -107,6 +107,9 @@
 {{- /* Generator */}}
 {{ hugo.Generator }}
 
+{{- /* Google AdSense */}}
+{{ partial "google-adsense.html" }}
+
 {{- /* RSS */}}
 {{ range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type | html }}" href="{{ .Permalink | safeURL }}">

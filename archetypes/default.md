@@ -4,5 +4,6 @@ date: {{ .Date }}
 categories: "" 
 tags: [""]
 comments: true
+#draft: true
 ---
 
