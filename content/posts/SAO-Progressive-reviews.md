@@ -4,6 +4,8 @@ date: 2021-11-15T04:33:27+08:00
 categories: "動畫電影心得" 
 tags: ["刀劍神域", "SAO", "劇場版", "刀劍神域Progressive", "SAOP", "無星夜的詠嘆調"]
 comments: true
+cover:
+    image: "posts/sao-progressive-reviews/advantage3.png"
 #draft: true
 ---
 
