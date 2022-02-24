@@ -34,49 +34,4 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
     background: unset;
     border-radius: unset;
     width: 100%;
-    margin: 0 2px 40px 2px;
-}
-
-.toc details summary {
-    cursor: zoom-in;
-    margin-inline-start: 20px;
-    padding: 12px 0;
-}
-
-.toc details[open] summary {
-    font-weight: 500;
-}
-
-.toc-container.wide .toc .inner {
-    margin: 0;
-}
-
-.active {
-    font-size: 110%;
-    font-weight: 600;
-}
-
-.toc ul {
-    list-style-type: circle;
-}
-
-.toc .inner {
-    margin: 0 0 0 20px;
-    padding: 0px 15px 15px 20px;
-    font-size: 16px;
-}
-
-.toc li ul {
-    margin-inline-start: calc(var(--gap) * 0.5);
-    list-style-type: none;
-}
-
-.toc li {
-    list-style: none;
-    font-size: 0.95rem;
-    padding-bottom: 5px;
-}
-
-.toc li a:hover {
-    color: var(--secondary);
 }
