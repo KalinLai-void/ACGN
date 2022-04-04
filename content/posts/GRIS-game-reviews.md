@@ -5,7 +5,7 @@ categories: "遊戲心得"
 tags: ["GRIS", "小品", "解謎", "探索"]
 comments: true
 cover:
-    image: "posts/GRIS-game-reviews/cover.png"
+    image: "posts/gris-game-reviews/cover.png"
 draft: true
 ---
 
