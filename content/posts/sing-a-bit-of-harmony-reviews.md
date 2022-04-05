@@ -31,6 +31,9 @@ cover:
 
 　　而整部作品，也都圍繞著詩音這名AI少女，詩音帶領著她一步步聚集的朋友們，共同化解了青春的尷尬、不快及後悔，<u>遵循著「<b>讓你幸福</b>」這個「命令」</u>，不斷創造屬於他們的「**回憶**」。
 
+### 官方中文版 PV
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/75wYFpEE3GM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 ## 科幻與青春的結合
 　　筆者本身是資訊相關科系，因此每次對於這種科幻題材，都非常感興趣。劇中將「AI」描繪的非常棒，即使有些理論是瞎掰的，但這些都不影響觀影體驗，反而還覺得有趣。**本作透由「AI」這種「只會遵循命令的機器」，帶出了非常精采的青春劇情**，只是筆者認為支線真的有些多了，<u>導致情感醞釀稍顯不足</u>，若少一條支線，或許感覺就會完全不同（也許筆者就會哭了）。但當然，本作的主軸還是沒有偏掉，且也是很出色的！
 
