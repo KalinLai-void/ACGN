@@ -16,7 +16,7 @@ cover:
 - 美術表現極為出色，宛如藝術品般
 - 遊玩體驗十分出色，解謎過程皆非常舒適
 
-　　最後，在進正文前，容筆者補充一下，這款遊戲可能無法用文字說得好，所以真的**非常推薦讀者們能夠自己去玩過這款遊戲**，好好坐下來體會，這遊戲的畫面、聲音與遊玩。相信筆者，你一定會驚豔的！（手機也能玩喔，但僅限iOS，哭QQ）
+　　最後，在進正文前，容筆者補充一下，這款遊戲可能無法用文字說得好，所以真的**非常推薦讀者們能夠自己去玩過這款遊戲**，好好坐下來體會，這遊戲的畫面、聲音與遊玩。相信筆者，你一定會驚豔的！（手機也能玩喔）
 
 <!--more-->
 
@@ -25,7 +25,7 @@ cover:
 > Steam商店頁面：[https://store.steampowered.com/app/683320/GRIS/](https://store.steampowered.com/app/683320/GRIS/)<br>
 > 由西班牙的獨立遊戲團隊Nomada Studio開發，Devolver Digital發行<br>
 > 發行日期：2018/12/13<br>
-> 平台：macOS、Windows、Switch、iOS、PlayStation 4<br>
+> 平台：Windows、macOS、Switch、PS4、Android、iOS<br>
 > 類型：橫向捲軸、解謎冒險<br>
 > 於 2019 年，入選GOTY年度最佳美術設計、最佳新獨立遊戲，更在年度遊戲影響力大獎中獲獎。
 
