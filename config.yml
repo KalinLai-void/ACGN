@@ -84,7 +84,7 @@ params:
         - name: Facebook
           url: "https://www.facebook.com/animeKarinKonta"
         - name: Twitter
-          ure: "https://twitter.com/KarinKonta"
+          url: "https://twitter.com/KarinKonta"
         - name: RsS
           url: "index.xml"
 
