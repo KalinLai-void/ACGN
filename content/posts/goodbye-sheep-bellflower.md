@@ -6,7 +6,7 @@ tags: [""]
 comments: true
 cover:
     image: ""
-#draft: true
+draft: true
 ---
 
 <!--more-->
