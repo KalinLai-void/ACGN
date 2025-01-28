@@ -73,6 +73,8 @@ params:
     #        - name: Tags
     #          url: tags
 
+    social: true
+
     homeInfoParams:
         Title: "Kalin 風凜魂太の宅領域"
         Content: >
