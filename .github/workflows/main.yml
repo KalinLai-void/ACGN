@@ -31,7 +31,7 @@ jobs:
           PUBLISH_DIR: ./public     # hugo 生成的目錄
           commit_message: ${{ github.event.head_commit.message }}
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
